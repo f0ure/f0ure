@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @f0ure
-- 👀 I’m interested in Graphic and Ui Design
+- 👀 I’m interested in Ui Design
 - 🌱 I’m currently learning html, css
 - 📫 How to reach me @f0ure (all social media)
 
